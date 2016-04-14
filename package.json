@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csell5/bot.git"
+  },
+  "author": "clark sell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csell5/bot/issues"
+  },
+  "homepage": "https://github.com/csell5/bot#readme",
+  "dependencies": {
+    "botbuilder": "^0.7.1",
+    "botconnector": "^0.9.6",
+    "restify": "^4.0.4"
+  }
+}
